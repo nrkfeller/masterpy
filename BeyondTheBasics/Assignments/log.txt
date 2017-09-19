@@ -1,0 +1,4 @@
+2017-09-03 17:39:27.879494 This is a log message
+2017-09-03 17:39:27.879909 This is another log message
+2017-09-03 17:39:49.333206 This is a log message
+2017-09-03 17:39:49.333483 This is another log message

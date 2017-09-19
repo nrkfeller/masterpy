@@ -1,0 +1,3 @@
+{
+  "pytest/test_myprogram.py::test_doubleit_type": true
+}

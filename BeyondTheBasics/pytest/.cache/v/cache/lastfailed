@@ -1,0 +1,8 @@
+{
+  "test_assignement.py::TestConfigDict::()::test_bad_filename": true, 
+  "test_assignement.py::TestConfigDict::()::test_existing_filename": true, 
+  "test_assignement.py::TestConfigDict::()::test_new_filename": true, 
+  "test_assignement.py::TestConfigDict::()::test_obj": true, 
+  "test_assignement.py::TestConfigDict::()::test_read_dict": true, 
+  "test_assignement.py::TestConfigDict::()::test_write_dict": true
+}
